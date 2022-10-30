@@ -3,7 +3,7 @@
  * Auth: Geoffrey Kiriswa
  */
 
-#include "function_pointers.h"
+#include "function_pointer.h"
 
 /**
  * print_name - Prints a name.
