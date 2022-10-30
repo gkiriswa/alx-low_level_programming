@@ -1,6 +1,6 @@
 /*
  * File: 1-array_iterator.c
- * Auth: Brennan D Baraban
+ * Auth: Geoffrey Kiriswa
  */
 
 #include "function_pointers.h"
